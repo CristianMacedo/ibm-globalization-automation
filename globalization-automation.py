@@ -8,10 +8,10 @@ import requests
 import re
 
 # Replace with your 'chromedriver' file path
-CHROMEDRIVER_PATH = '/Users/cristianmacedo/Downloads/ibm-globalization-automation-master/chromedriver'
+CHROMEDRIVER_PATH = 'replace_with_your_chromedriver_downloaded_file_path'
 
 # Replace with your chrome profile path
-CHROME_PROFILE_PATH = '/Users/cristianmacedo/Library/Application Support/Google/Chrome/Default'
+CHROME_PROFILE_PATH = 'replace_with_your_chrome_profile_path(instructions_on_readme)'
     
 # Returns the youtube title of the provided video 
 def getVideoTitle(videourl):    
