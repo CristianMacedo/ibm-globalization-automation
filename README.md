@@ -50,7 +50,7 @@ Selenium WebDriver opens a raw new instance of google chrome, which doesn't load
 
 ## Usage
 
-On the 'globalization-automation.py' file, add the Node URLs to the 'pages' list, on quotation marks, and separed with commas. (Currently works only with node links ('https://cms.ibm.com/node/*/')
+On the 'globalization-automation.py' file, add the Node URLs to the 'pages' list, on quotation marks, and separed with commas. (Currently works only with node links ('https://cms.ibm.com/node/*')
 > I'm still implementing an interactive input so the user doesn't need to manually add the URLs and paths
 
 ```python
