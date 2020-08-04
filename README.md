@@ -1,6 +1,8 @@
 # IBM Globalization Tool
 
-An automation Python tool built with the Selenium WebDriver module, to automate the IBM Globalization checking process, checking for all the the globalization checklist items one by one, currently working on Chrome 72 (Chromedriver 2.46)
+`DEPRECATION WARNING! This repository has been discontinued and re-created as an IBM internal tool. Parameters used for QA checking may be outdated`
+
+An automation Python tool built with the Selenium WebDriver module, to automate the Quality Assurance checking process, checking for all the the globalization checklist items one by one, currently working on Chrome 72 (Chromedriver 2.46)
 
 ## How does it work?
 
